@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    width: 20%;
+}
