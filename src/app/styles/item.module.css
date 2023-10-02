@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.line{
+    height: 1px;
+    background-color: rgb(230,230,230);
+    width: 100%;
+  }

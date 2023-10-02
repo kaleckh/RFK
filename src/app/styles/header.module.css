@@ -9,5 +9,20 @@
 .flex{
     display: flex;
     justify-content: space-evenly;
-    width: 20%;
+    width: 100%;
+}
+.Flex{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 97%;
+    font-size: 25px;
+    height: 10%;
+    font-weight: 500;
+}
+.iconFlex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 13%;
 }
